@@ -1,7 +1,7 @@
 # Fusion Lifestyle Sessions Open Data
 
 ## Open Data Endpoint
-https://fusionfunctions.azurewebsites.net/api/FusOpenFunction - a feed of session data from activeNewham's five leisure centres
+https://fusionfunctions.azurewebsites.net/api/FusOpenFunction - a feed of session data from Fusion's sites
 
 ## Standards
 The data is published to conform to [Openactive Realtime Paged Data Exchange 0.2.3](https://www.openactive.io/realtime-paged-data-exchange/0.2.3/).
