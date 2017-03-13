@@ -7,7 +7,7 @@ https://fusionfunctions.azurewebsites.net/api/FusOpenFunction - a feed of sessio
 The data is published to conform to [Openactive Realtime Paged Data Exchange 0.2.3](https://www.openactive.io/realtime-paged-data-exchange/0.2.3/).
 
 ## Issues, Questions and Comments
-Please raise any issues, questions or comments as a [new issue in this repository](https://github.com/fusion-lifestyle/opendata/issues).
+Please raise any issues, questions, comments and any feedback as a [new issue in this repository](https://github.com/fusion-lifestyle/opendata/issues).
 
 ## Data Fields
 
