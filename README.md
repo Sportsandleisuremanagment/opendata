@@ -31,10 +31,10 @@ Please raise any issues, questions, comments and any feedback as a [new issue in
 | `seniorCost` | `£7.50` | Cost of non-member concession booking |
 | `availability` | `available` | Number of available spaces; one of `available`, `limited` (less than 5 spaces) or `none` |
 | `onSiteLocation` | [ `Diving Pool` ] | Location of the activity within the site |
-| `description` | `` | Longer description of the session |
-| `imageURL` | `` | Image relating to the session |
-| `richTitle` | `` | User-friendly title |
-| `activityID` | `` | MRM Activity ID |
-| `activityDuration` | `` | Activity Duration |
-| `bookingID` | `` | MRM bookingID |
-| `level` | `` | one of `Beginner`, `Intermediate` or `Advanced` |
+| `description` |  | Longer description of the session |
+| `imageURL` |  | Image relating to the session |
+| `richTitle` |  | User-friendly title |
+| `activityID` |  | MRM Activity ID |
+| `activityDuration` |  | Activity Duration |
+| `bookingID` |  | MRM bookingID |
+| `level` |  | one of `Beginner`, `Intermediate` or `Advanced` |
