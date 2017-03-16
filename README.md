@@ -34,3 +34,7 @@ Please raise any issues, questions, comments and any feedback as a [new issue in
 | `description` | `` | Longer description of the session |
 | `imageURL` | `` | Image relating to the session |
 | `richTitle` | `` | User-friendly title |
+| `activityID` | `` | MRM Activity ID |
+| `activityDuration` | `` | Activity Duration |
+| `bookingID` | `` | MRM bookingID |
+| `level` | `` | one of `Beginner`, `Intermediate` or `Advanced` |
